@@ -6,12 +6,12 @@ This is an application that monitors the temperature, humidity, light intensity,
 
 # Setting up project
 
-This is a full-stack web application that is broken up across a few different repositories.
+This is a full-stack web application that is broken up across a few different repositories - the [front-end,](https://github.com/Clara-ra/plant-sitter-client) the [back-end,](https://github.com/Clara-ra/plant-sitter-api) and the [data-collection.](https://github.com/Clara-ra/plant-sitter-api)
 
 ---
 This repository is the **data-collection portion**. To grab the rest, see below.
 
-The data collection is run on a raspberry pi with various sensors connected.
+The data collection is run on a Raspberry Pi with various sensors connected.
 
 **Hardware used** 
 - BH1750 Light Sensor
@@ -24,7 +24,7 @@ The data collection is run on a raspberry pi with various sensors connected.
 - Circuit Python( Setup [here](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux/installing-circuitpython-on-raspberry-pi))
 - BH1750 Module ( Repository [here](https://github.com/adafruit/Adafruit_CircuitPython_BH1750) )
 - HTU21D Module ( Repository [here](https://github.com/adafruit/Adafruit_CircuitPython_HTU21D) )
-- PCF8591 Module ( Resporistory [here](https://github.com/adafruit/Adafruit_CircuitPython_PCF8591) )
+- PCF8591 Module ( Respository [here](https://github.com/adafruit/Adafruit_CircuitPython_PCF8591) )
 
 **Hardware Setup**
 
